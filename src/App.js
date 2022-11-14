@@ -1,5 +1,6 @@
 
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 //Implementamos React-router-dom en app.js, por eso importamos....
 

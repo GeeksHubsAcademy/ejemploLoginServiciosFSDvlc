@@ -14,3 +14,25 @@
     
 
 }
+
+
+.registerButtonDesign {
+
+    height: 2em;
+    width: 9em;
+
+    margin-top: 2em;
+
+    background-color: red;
+
+    transition: 0.3s;
+
+    border-radius: 1em;
+
+}
+
+.errorInput {
+    color: red;
+
+    font-style: italic;
+}
